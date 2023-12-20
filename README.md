@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>1. [Bash Scripting](https://github.com/bishtty/bash-scripting.git)</b>
-- <b>2</b>
+- <b>2 [Python](https://github.com/bishtty/python.git)</b>
 
 <h2>📄 Certifications:</h2>
 
