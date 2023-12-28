@@ -1,5 +1,5 @@
 # AayushCyber
-<b>Passionate cybersecurity enthusiast with a strong foundation, backed by Google Cybersecurity and CompTIA Security+ certificates. Dedicated to safeguarding digital landscapes and driven to stay ahead of evolving threats. Eager to contribute my expertise to protect and secure the digital world.</b>
+Passionate cybersecurity enthusiast with a strong foundation, backed by Google Cybersecurity and CompTIA Security+ certificates. Dedicated to safeguarding digital landscapes and driven to stay ahead of evolving threats. Eager to contribute my expertise to protect and secure the digital world.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
