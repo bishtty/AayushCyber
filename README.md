@@ -22,5 +22,6 @@ Passionate cybersecurity enthusiast with a strong foundation, backed by Google C
 [<img align="left" alt="AayushBisht | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/aayush-bisht
+[Medium]: https://bishtaayush.medium.com/
 
 
