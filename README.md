@@ -20,6 +20,8 @@ Passionate cybersecurity enthusiast with a strong foundation, backed by Google C
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="AayushBisht | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="YourMediumUsername | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 [linkedin]: https://linkedin.com/in/aayush-bisht
 [Medium]: https://bishtaayush.medium.com/
