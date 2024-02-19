@@ -14,6 +14,8 @@ Passionate cybersecurity enthusiast with a strong foundation, backed by Google C
 - <b><a href="https://www.credly.com/badges/344d6dfe-0b6b-41ed-b2ed-807c01b5215f/linked_in_profile" target="_blank">CompTIA Security+ ce Certification</a></b>
 - <b><a href="https://www.credly.com/badges/41a1f3bb-4287-4a81-af4f-6be08197be55/public_url" target="_blank">Google Cybersecurity Certificate</a></b>
 - <b><a href="https://www.credly.com/badges/d8a829dc-1076-49f3-9ee4-b42a41c67dcb/public_url" target="_blank">Google Cybersecurity Certificate & CompTIA Security+ dual credential</a></b>
+- <b><a href="https://pentesterlab.com/certs/6fc0eb8d6eeeb5164fc34cf3310825" target="_blank">Pentester Lab- Recon Badge</a></b>
+- <b><a href="https://drive.google.com/file/d/1vwZiPQ3HGoj73wSCmawY2s0jBq8-tdp6/view?usp=sharing" target="_blank">ControlCase OneAudit Bootcamp</a></b>
 
 <h2>🤳 Connect with me:</h2>
 
