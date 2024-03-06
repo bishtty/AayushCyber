@@ -16,14 +16,18 @@ Passionate cybersecurity enthusiast with a strong foundation, backed by Google C
 - <b><a href="https://www.credly.com/badges/d8a829dc-1076-49f3-9ee4-b42a41c67dcb/public_url" target="_blank">Google Cybersecurity Certificate & CompTIA Security+ dual credential</a></b>
 - <b><a href="https://pentesterlab.com/certs/6fc0eb8d6eeeb5164fc34cf3310825" target="_blank">Pentester Lab- Recon Badge</a></b>
 - <b><a href="https://drive.google.com/file/d/1vwZiPQ3HGoj73wSCmawY2s0jBq8-tdp6/view?usp=sharing" target="_blank">ControlCase OneAudit Bootcamp</a></b>
+- <b><a href="https://www.credly.com/badges/4747e046-4258-4dd7-8106-8c77f254ba4f/public_url" target="_blank">API Security Fundamentals</a></b>
 
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="AayushBisht | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="YourMediumUsername | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="YourCredlyUsername | Credly" width="22px" src="https://path/to/credly/icon.svg" />][credly]
 
 
-[linkedin]: https://linkedin.com/in/aayush-bisht
+
+[Linkedin]: https://linkedin.com/in/aayush-bisht
 [Medium]: https://bishtaayush.medium.com/
+[Credly]: https://www.credly.com/users/aayush-bisht.1cb6a199
 
 
