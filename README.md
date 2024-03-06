@@ -21,13 +21,11 @@ Passionate cybersecurity enthusiast with a strong foundation, backed by Google C
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="AayushBisht | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="YourMediumUsername | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="YourCredlyUsername | Credly" width="22px" src="https://path/to/credly/icon.svg" />][credly]
-
+[<img align="left" alt="Aayush | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
 [Linkedin]: https://linkedin.com/in/aayush-bisht
 [Medium]: https://bishtaayush.medium.com/
-[Credly]: https://www.credly.com/users/aayush-bisht.1cb6a199
+
 
 
